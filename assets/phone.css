@@ -34,7 +34,7 @@
 		text-align: center;
 		transition: 0.7s ease;
 		padding: 30px 0;
-		height: 90vh;
+		height: 10vh;
 		opacity: 0;
 	}
 
@@ -48,6 +48,7 @@
 		padding: 0;
 		gap: 55px;
 		opacity: 1!important;
+		height: 90vh;
 	}
 
     .hero {
