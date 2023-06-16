@@ -21,7 +21,7 @@
 	}
 	
 	.nav-link {
-		fontsize: 23px;	
+		fontsize: 26px;	
 	}
 
 	.nav-menu {
@@ -37,7 +37,7 @@
 		text-align: center;
 		transition: 0.7s ease;
 		padding: 30px 0;
-		height: 96vh;
+		height: 97vh;
 	}
 
 	.nav-link {
